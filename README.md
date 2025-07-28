@@ -32,7 +32,7 @@ cp ./ocs01-test/target/release/ocs01-test ./ocs01-test/EI/exec_interface.json ~/
 chmod +x ~/octra_pre_client/ocs01-test
 ```
 
-## Run the binary
+## Navigate to the CLI directory and run the binary
 ```
 cd ~/octra_pre_client
 ./ocs01-test

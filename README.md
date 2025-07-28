@@ -2,8 +2,7 @@
 A step-by-step guide to build and run octralabs ocs01 test. Works on windows, macos and linux
 
 ## Prerequisites
-- Must have previously generated a wallet and Installed Octra_Pre_client CLI
-- Follow this guide first if you haven't: https://github.com/0luwatunmise/Octra-Labs
+- Must have previously generated a wallet and Installed Octra_Pre_client CLI, Follow this guide first if you haven't: https://github.com/0luwatunmise/Octra-Labs
 
 - Install rust if not Installed, If installed skip
 ```bash
